@@ -1,0 +1,23 @@
+html {
+    background: #e9e8e9;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #543;
+    font-weight: 300;
+    font-variant: normal
+    line-height: 1.90;}
+    
+<style>
+
+{
+  height: 50px;
+  width: 100%;
+  background-color: #ffcccc;
+  clear: both;
+  position: relative;
+}
+    } 
+</style>
+
